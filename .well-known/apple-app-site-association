@@ -14,6 +14,8 @@
         "paths": [
           "/HOTEL_PR/*",
           "/HOTEL/*/TOPIC/*"
+        ]
+      }
     ]
   }
 }
