@@ -13,7 +13,7 @@
         "appID": "228KC334N4.jp.co.rakuten.travel.dev.prd",
         "paths": [
           "/HOTEL_PR/*",
-          "/HOTEL/*/TOPIC/*"
+          "/HOTEL/*/TOPIC/?*"
         ]
       },
       {
