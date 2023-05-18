@@ -6,21 +6,21 @@
         "appID": "5J4GVGN58B.jp.co.rakuten.travel.qa.stg",
         "paths": [
           "/HOTEL_PR/*",
-          "/HOTEL/*/TOPIC/*"
+          "/HOTEL/*/TOPIC_PR/*"
         ]
       },
             {
         "appID": "228KC334N4.jp.co.rakuten.travel.dev.prd",
         "paths": [
           "/HOTEL_PR/*",
-          "/HOTEL/*/TOPIC/?*"
+          "/HOTEL/*/TOPIC_PR/?*"
         ]
       },
       {
         "appID": "228KC334N4.jp.co.rakuten.travel",
         "paths": [
           "/HOTEL_PR/*",
-          "/HOTEL/*/TOPIC/*"
+          "/HOTEL/*/TOPIC_PR/*"
         ]
       }
     ]
